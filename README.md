@@ -8,6 +8,20 @@ This project is a 3D graphics application developed using **C++ and OpenGL** tha
 
 The scene was designed to balance simplicity and realism while showcasing technical proficiency in building and rendering 3D objects from primitive shapes.
 
+## Reflection
+
+### How I Approach Designing Software
+
+When approaching software design, I break the project into smaller components and plan how they will work together before writing code. In this project, I improved my ability to structure a 3D scene and understand how transformations, lighting, and textures combine to create a complete visual result. I started with a basic layout and gradually added features like camera controls and lighting. This step by step approach made it easier to test and fix issues early. I can apply this same process of modular design and incremental development to future projects.
+
+### How I Approach Developing Programs
+
+My development approach focuses on iteration and frequent testing. While building the 3D scene, I added features one at a time and used debugging techniques such as adjusting transformations and verifying textures to refine the result. I often revisited earlier parts of the project to improve performance and organization. Over time, my focus shifted from just getting features to work to writing cleaner and more maintainable code, which helped me complete the project more efficiently.
+
+### How Computer Science Helps Me Reach My Goals
+
+This project helped me build both technical and creative problem solving skills. I gained experience with key concepts like coordinate systems, transformations, lighting, and texture mapping. These skills support my future educational goals by strengthening my understanding of software development. They are also useful for my interest in content creation and interactive media, where strong visuals and user experience are important. Overall, this project showed my ability to turn a complex idea into a functional and polished result.
+
 ---
 
 ## 🎯 Features
